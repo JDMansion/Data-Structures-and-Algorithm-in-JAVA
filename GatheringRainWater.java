@@ -10,7 +10,7 @@ Sample Output
 
 
 import java.util.Scanner;
-public class Main 
+public class GatheringRainWater
 {	
 	public static void main(String[] args)
  	{
