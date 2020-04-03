@@ -14,9 +14,9 @@ Output Format :
 Constraints :
 	1 <= N <= 10^5
 
-Sample Input 1 :
+Sample Input :
 	13
 	2 12 2 11 12 2 1 2 2 11 12 2 6 
 
-Sample Output 1 :
+Sample Output :
 	2
